@@ -5,4 +5,4 @@
 alt-text pretty upset, eh
 
 
-[ActiveDirectory API](https://pypi.org/project/pyad)
+
